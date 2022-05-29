@@ -1,0 +1,2 @@
+# NoAmmoDrop
+exiled plugin
